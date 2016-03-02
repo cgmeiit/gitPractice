@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+		System.Console.WriteLine("Name: ");
+		string name = System.Console.ReadLine();
+
+		System.Console.WriteLine("age: ");
+		int age = int.Parse(System.Console.ReadLine());
+		 
+		System.Console.Write(name);
+		System.Console.WriteLine();
+		System.Console.Write(age);
+		System.Console.WriteLine();
+
+
+		
+
+
+        }
+    }
+}

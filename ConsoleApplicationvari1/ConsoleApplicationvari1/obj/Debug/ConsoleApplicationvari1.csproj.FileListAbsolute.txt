@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationvari1\ConsoleApplicationvari1\bin\Debug\ConsoleApplicationvari1.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationvari1\ConsoleApplicationvari1\bin\Debug\ConsoleApplicationvari1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationvari1\ConsoleApplicationvari1\bin\Debug\ConsoleApplicationvari1.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationvari1\ConsoleApplicationvari1\obj\Debug\ConsoleApplicationvari1.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationvari1\ConsoleApplicationvari1\obj\Debug\ConsoleApplicationvari1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationvari1\ConsoleApplicationvari1\obj\Debug\ConsoleApplicationvari1.pdb

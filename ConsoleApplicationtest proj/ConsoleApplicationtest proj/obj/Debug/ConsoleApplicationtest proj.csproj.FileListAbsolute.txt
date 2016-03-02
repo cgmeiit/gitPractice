@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationtest proj\ConsoleApplicationtest proj\bin\Debug\ConsoleApplicationtest proj.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationtest proj\ConsoleApplicationtest proj\bin\Debug\ConsoleApplicationtest proj.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationtest proj\ConsoleApplicationtest proj\bin\Debug\ConsoleApplicationtest proj.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationtest proj\ConsoleApplicationtest proj\obj\Debug\ConsoleApplicationtest proj.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationtest proj\ConsoleApplicationtest proj\obj\Debug\ConsoleApplicationtest proj.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationtest proj\ConsoleApplicationtest proj\obj\Debug\ConsoleApplicationtest proj.pdb
